@@ -1,7 +1,6 @@
 # Frontend 
 
 ## Prerequirements
-- Able to run docker containers with docker-compose
 - Node version v18
 - Yarn version 1.22.22
 
